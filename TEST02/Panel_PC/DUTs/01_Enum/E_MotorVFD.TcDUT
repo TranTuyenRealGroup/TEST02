@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <DUT Name="E_MotorVFD" Id="{a7f4a6ec-08fb-45d2-9c1d-57dc816c6be3}">
+    <Declaration><![CDATA[{attribute 'qualified_only'}
+{attribute 'strict'}
+TYPE E_MotorVFD :
+(
+	enum_member := 0
+);
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>

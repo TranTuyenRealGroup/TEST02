@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <DUT Name="E_Trolley" Id="{631bd5bc-a8eb-467e-922f-2faa5112a34b}">
+    <Declaration><![CDATA[{attribute 'qualified_only'}
+{attribute 'strict'}
+TYPE E_Trolley :
+(
+	enum_member := 0
+);
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>

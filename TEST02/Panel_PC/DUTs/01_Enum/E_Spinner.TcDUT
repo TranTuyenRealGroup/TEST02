@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <DUT Name="E_Spinner" Id="{cb63fe13-0dd9-4d09-8911-cee525906613}">
+    <Declaration><![CDATA[{attribute 'qualified_only'}
+{attribute 'strict'}
+TYPE E_Spinner :
+(
+	enum_member := 0
+);
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>
