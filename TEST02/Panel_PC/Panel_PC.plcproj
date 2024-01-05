@@ -21,6 +21,9 @@
     <Compile Include="DUTs\01_Enum\E_MotorDOL.TcDUT">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="DUTs\02_ST\ST_Cylinder.TcDUT">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PlcTask.TcTTO">
       <SubType>Code</SubType>
     </Compile>
@@ -37,6 +40,7 @@
   <ItemGroup>
     <Folder Include="DUTs" />
     <Folder Include="DUTs\01_Enum" />
+    <Folder Include="DUTs\02_ST" />
     <Folder Include="GVLs" />
     <Folder Include="POUs\01_FB_Template" />
     <Folder Include="VISUs" />
