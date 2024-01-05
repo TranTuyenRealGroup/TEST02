@@ -18,7 +18,13 @@
     <LibraryReferences>{577cd405-349b-4b46-a875-6f64723bb8c4}</LibraryReferences>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="DUTs\01_Enum\E_Conveyor.TcDUT">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="DUTs\01_Enum\E_MotorDOL.TcDUT">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DUTs\01_Enum\E_MotorVFD.TcDUT">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="DUTs\02_ST\ST_Cylinder.TcDUT">
