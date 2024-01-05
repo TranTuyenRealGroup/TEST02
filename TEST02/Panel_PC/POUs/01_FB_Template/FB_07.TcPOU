@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <POU Name="FB_07" Id="{6a80e36e-5e12-4198-aeef-e799fe33a733}" SpecialFunc="None">
+    <Declaration><![CDATA[FUNCTION_BLOCK FB_07
+VAR_INPUT
+	TUYEN AT %I* : BOOL;
+END_VAR
+VAR_OUTPUT
+END_VAR
+VAR
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[]]></ST>
+    </Implementation>
+  </POU>
+</TcPlcObject>
