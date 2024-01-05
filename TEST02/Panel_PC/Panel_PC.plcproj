@@ -39,6 +39,12 @@
     <Compile Include="POUs\01_FB_Template\FB_02.TcPOU">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="POUs\01_FB_Template\FB_03.TcPOU">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="POUs\01_FB_Template\FB_04.TcPOU">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="POUs\MAIN.TcPOU">
       <SubType>Code</SubType>
     </Compile>
